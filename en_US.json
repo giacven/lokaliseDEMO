@@ -1,0 +1,21 @@
+{
+  "app.about": "About",
+  "app.about.description": "More information about us!",
+  "app.about.paragraph": "What we do",
+  "app.about.subtitle": "Learn more about us",
+  "app.about.title": "About all of Us",
+  "app.description": "A very simple app for demonstration purposes.",
+  "app.files": "{count, plural, one {You have {count} file} other {You have {count} files}}",
+  "app.footer.cta": "Check us out on",
+  "app.landing_page": "Landing Page",
+  "app.landing_page.description": "Welcome to this demo app. Stay a while and translate.",
+  "app.landing_page.subtitle": "This is a demo for {client}.",
+  "app.landing_page.title": "My <b>Demo App</b>",
+  "app.langs.english": "English",
+  "app.services": "Services",
+  "app.services.description": "Check out these services",
+  "app.services.title": "Services here",
+  "app.subtitle": "i18n Demo App",
+  "app.subtitle_1": "test me",
+  "app.title": "Demo App"
+}
